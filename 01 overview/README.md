@@ -21,3 +21,13 @@ The evidence includes:
 - Joiner account creation
 - Mover role change
 - Leaver account disablement and access removal
+
+## What this proves
+
+This repository demonstrates practical IAM lifecycle control in Active Directory.
+
+It proves that I can:
+- Design role based access using role groups and application groups
+- Implement group nesting so users are never assigned application access directly
+- Execute Joiner, Mover, and Leaver events with clear operational steps
+- Capture evidence of access changes in a repeatable, auditable way
